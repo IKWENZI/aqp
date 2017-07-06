@@ -618,5 +618,3 @@ setMethod("[", signature=c("SoilProfileCollection", i="ANY", j="ANY"),
   # done
   }
 )
-
-

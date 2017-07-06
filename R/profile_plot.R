@@ -489,5 +489,3 @@ plotSPC <- function(x, color='soil_color', width=0.2, name=NULL, label=idname(x)
 
 # method dispatch
 setMethod("plot", signature("SoilProfileCollection"), definition=plotSPC)
-
-
